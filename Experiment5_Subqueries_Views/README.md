@@ -309,8 +309,6 @@ GROUP BY grade;
 **Output:**
 <img width="745" height="401" alt="image" src="https://github.com/user-attachments/assets/4c95250f-9d75-4185-97a5-ab1f2905a8a4" />
 
-![Output10](output.png)
-
 
 ## RESULT
 Thus, the SQL queries to implement subqueries and views have been executed successfully.
