@@ -237,11 +237,11 @@ Write a query to list all products that have a discounted price between $100 and
 SELECT product_id,original_price,discount_percentage,
 original_price*(1-discount_percentage) as discounted_price
 from products
-where original_price*(1-discount_percentage) between 100 and 250;```
+where original_price*(1-discount_percentage) between 100 and 250;
+```
 
 **Output:**
-
-<img width="1222" height="347" alt="image" src="https://github.com/user-attachments/assets/8e2e5d66-a094-4cd5-8781-1002d10a9767" />
+<img width="1222" height="347" alt="image" src="https://github.com/user-attachments/assets/db7b89a8-2803-4fe3-8e2b-f38ab6ef24cc" />
 
 ## RESULT
 Thus, the SQL queries to implement DML commands have been executed successfully.
